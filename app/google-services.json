@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "948173744837",
+    "firebase_url": "https://devfestapp-1c816.firebaseio.com",
+    "project_id": "devfestapp-1c816",
+    "storage_bucket": "devfestapp-1c816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948173744837:android:5bc081331d8aa10e",
+        "android_client_info": {
+          "package_name": "com.example.maherboudhraa.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948173744837-kj9v0e1bdeiqmuekdb19csb9mcr71mmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTrP8WC9cMICSwjWGoyNqIlwxszjX8LAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
